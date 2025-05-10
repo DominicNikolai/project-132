@@ -3,7 +3,7 @@ const $hero = $('.hero');
 const TOTAL_FRAMES = 32;
 
 function generateSrc(nFrame) {
-  return `./assets/frames/microfono-${nFrame}.webp`;
+  return `./assets/frames/microfono-${nFrame}.jpg`;
 }
 
 function updateImage(nFrame) {
