@@ -21,7 +21,7 @@ body {
     width: 100%;
     min-height: 100vh;
     inset: 0;
-    background-image: var(--bg-portada, url('assets/frames/0.webp'));
+    background-image: var(--bg-portada, url('assets/frames/0.jpg'));
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
